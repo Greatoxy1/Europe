@@ -4,6 +4,23 @@ export default function News() {
             <h2 >
                 🔥  Breaking news🔥
             </h2>
+            <h2>UK has permitted USA and Israel to use it’s military base</h2>
+            <p>
+                The UK is still involved in other ways:
+
+                Allowing the U.S. to use some British military bases for limited defensive operations against Iranian missile threats.
+
+                Sending Typhoon fighter jets to Qatar and deploying ships and helicopters to defend against drones or missiles.
+
+                Sharing intelligence and helping protect regional allies.
+                The UK government says its goal is:
+
+                Defending allies and British forces in the region
+
+                Avoiding escalation and
+
+                Pushing for diplomatic negotiations with Iran instead of joining the war.
+            </p>
             <h2>UK evacuating citizens from Middle East</h2>
             <p>
                 The UK government has chartered evacuation flights for British nationals leaving the Middle East because of escalating conflict in the region.
